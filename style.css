@@ -14,6 +14,11 @@
     background-color: #f2f2f2;
 }
 
+.logo {
+    width: 228px;
+    height: 32px;
+}
+
 .logo_place_header {
     width: 228px;
     height: 32px;
@@ -154,7 +159,7 @@
 
 
 .feynman {
-    background-image: url(file:///C:/Users/User/AppData/Local/Temp/2decd35c-a70e-46fc-a9fa-509f9597a2cb_sprint-1__startkit.zip.2cb/sprint-1__startkit/images/feynman.png);
+    background-image: url(./sprint-1__startkit/images/feynman.png);
     background-position: bottom 0 left 0;
     background-repeat: no-repeat;
     background-size: 867px 637px;
@@ -247,7 +252,7 @@
     position: absolute;
     width: 877px;
     height: 877px;
-    background-image: url("file:///C:/Users/User/AppData/Local/Temp/9338e521-ea8c-4f07-89ed-fc17aa22b1ca_sprint-1__startkit.zip.1ca/sprint-1__startkit/images/kaufman-triangle.svg");
+    background-image: url(./sprint-1__startkit/images/kaufman-triangle.svg);
     right: -210px;
     top: -20px;
     background-size: cover;
