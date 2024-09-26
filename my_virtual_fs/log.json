@@ -1,1 +1,0 @@
-[{"command": "ls", "output": ["dir1", "dir2", "file1.txt", "file2.txt", "my_virtual_fs.tar"]}, {"command": "tac", "filename": "file1.txt", "output": ["\"Hello, World!\" "]}, {"command": "tac", "filename": "file2.txt", "output": ["\"This is file 2.\" "]}, {"command": "whoami", "output": "User"}, {"command": "cd", "path": "dir1"}, {"command": "cd", "path": "/"}]
