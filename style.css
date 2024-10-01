@@ -14,7 +14,7 @@
     background-color: #f2f2f2;
 }
 
-.logo_place_header {
+.header__logo {
     width: 228px;
     height: 32px;
     left: 64px;
@@ -288,9 +288,9 @@
     transition: opacity .5s linear;
 }
 
-.footer__column-link:hover {
+    .footer__column-link:hover {
         opacity: .6;
-}
+    }
 
 .footer__column-links {
     margin: 20px 0 16px;
@@ -327,4 +327,3 @@
     width: 16px;
     height: 16px;
 }
-
