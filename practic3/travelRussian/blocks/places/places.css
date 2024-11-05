@@ -1,0 +1,39 @@
+.places {
+    margin: 0 auto 92px;
+    max-width: calc(100% - 296px);
+    color: #fff;
+    font-family: 'Inter';
+    display: grid;
+    gap: 80px;
+}
+
+@media screen and (max-width:1024px) {
+    .places {
+        max-width: calc(100% - 96px);
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    .places {
+        max-width: calc(100% - 48px);
+        margin-bottom: 90px;
+        gap: 73px;
+    }
+
+}
+
+@media screen and (max-width:625px) {
+    .places {
+        max-width: 100%;
+    }
+
+}
+
+@media screen and (max-width:320px) {
+    .places {
+        margin-bottom: 66px;
+        gap: 50px;
+    }
+
+}

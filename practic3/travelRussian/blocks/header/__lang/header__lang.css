@@ -1,0 +1,8 @@
+.header__lang {
+    margin: 0%;
+    padding-top: 18px;
+    padding-bottom: 6px;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
